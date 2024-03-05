@@ -1,0 +1,14 @@
+#label {
+  color: green;
+  font-size: 14px;
+}
+
+.input {
+  color: green;
+  border: 1px solid green;
+}
+
+.input:hover,
+.input:focus {
+  border: 1px solid blue;
+}
